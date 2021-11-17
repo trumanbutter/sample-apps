@@ -4,11 +4,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and with the help
 of [material UI](https://mui.com/) as the component library.
+## Project setup:
+#### `yarn install` to install dependencies.
+
+## Project start:
+#### `yarn start`
+
+![Myflix cover](Myflix-cover.png)
 
 
-## Getting started:
-
-1. In your CLI run: `yarn install` to install dependencies.
-2. Followed by `yarn start`
-
-
+**Yes the Myflix logo is comic sans :)**
