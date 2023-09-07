@@ -1,0 +1,31 @@
+body {
+  background: #000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.myflix-header {
+  margin: 1.5rem 0;
+}
+.myflix-search {
+  margin-bottom: 2rem;
+}
+
+.movie-details-dialog {
+  .MuiDialogActions-root {
+    align-self: flex-end;
+    position: absolute;
+  }
+  .MuiDialog-paperFullWidth {
+    background-image: none;
+    background-color: #000000d4;
+    border-radius: 0;
+  }
+}
+
+.image-poster {
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
